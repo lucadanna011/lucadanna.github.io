@@ -11,9 +11,9 @@ title                    : "Lorenzo Testa"
 title_separator          : "-"
 name                     : &name "Alessandro Pinzi"
 description              : &description "personal description"
-url                      : https://testalorenzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alessandropinzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alessandropinzi/testalorenzo.github.io"
+repository               : "AlessandroPinzi/alessandropinzi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lorenzo Testa"
+  name             : "Alessandro Pinzi"
   avatar           : "IMG_20220524_122942.jpg"
-  bio              : "Honors student in Data Science"
-  location         : "Sant'Anna School, Pisa, Italy"
+  bio              : "Ph.D. student in Statistics and Comouter Science"
+  location         : "Bocconi University, Milan, Italy"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl=en&authuser=2&oi=ao"
-  email            : "l.testa@sssup.it"
+  googlescholar    : 
+  email            : "alessandropinzi@phd.unibocconi.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alessandropinzi"
+  github           : "AlessandroPinzi"
   google_plus      :
   keybase          :
   instagram        :
