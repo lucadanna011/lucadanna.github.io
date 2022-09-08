@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Alessandro Pinzi"
   avatar           : "foto.jpg"
-  bio              : "Ph.D. student in Statistics and Comouter Science"
-  location         : "Bocconi University, Milan, Italy"
+  bio              : "Ph.D. student in Statistics and Computer Science"
+  location         : "Bocconi University"
+  location         : "Milan, Italy"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
