@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Pinzi"
+title                    : "Luca Danna"
 title_separator          : "-"
-name                     : &name "Alessandro Pinzi"
+name                     : &name "Luca Danna"
 description              : &description "personal description"
-url                      : https://alessandropinzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lucadanna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlessandroPinzi/alessandropinzi.github.io"
+repository               : "LucaDAnna/lucadanna.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alessandro Pinzi"
-  avatar           : "foto22.jpg"
+  name             : "Luca Danna"
+  avatar           : "unnamed.jpg"
   bio              : "Ph.D. student in Statistics and Computer Science"
   location         : "Bocconi University"
   location         : "Milan, Italy"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "alessandropinzi@phd.unibocconi.it"
+  email            : "lucadanna@phd.unibocconi.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AlessandroPinzi"
+  github           : "LucaDanna"
   google_plus      :
   keybase          :
   instagram        :
