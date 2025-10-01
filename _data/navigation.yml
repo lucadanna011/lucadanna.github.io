@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: Projects and Curiosities
-    url: /talks/    
+   # url: /talks/    
 
-  - title: "Teaching"
-    url: /teachingdir/    
+  #- title: "Teaching"
+   # url: /teachingdir/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
