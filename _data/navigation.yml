@@ -3,20 +3,6 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: Projects and Curiosities
-   # url: /talks/    
-
-  #- title: "Teaching"
-   # url: /teachingdir/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
   - title: "CV"
     url: /CV_FORM_Danna_Luca_sept2025.pdf 
     
-  #- title: "Guide"
-  #  url: /markdown/
