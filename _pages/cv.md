@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /https://lucadanna.github.io/files/CV_FORM_Danna_Luca_sept2025.pdf/
 author_profile: true
 redirect_from:
   - /resume
